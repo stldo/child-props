@@ -1,0 +1,8 @@
+{
+  "name": "child-props",
+  "version": "0.0.1",
+  "description": "Easily set props of child components",
+  "main": "index.js",
+  "author": "stldo",
+  "license": "MIT"
+}
